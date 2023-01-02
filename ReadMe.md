@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN and Devops<br>🌱 I’m currently learning<br>💬 Love to talk about space and programming<br>⚡ Fun fact: I can squad 220 pounds 😄
+🔭 I’m currently working on MERN and Devops<br>💬 Love to talk about space and programming<br>⚡ Fun fact: I can squad 220 pounds 😄
 
 
 ## 🌐 Socials:
