@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN and Devops<br>💬 Love to talk about space and programming<br>⚡ Fun fact: I can squad 220 pounds 😄
+🔧 I’m a Senior Software Engineer with over 7 years of experience specializing in full-stack development, cloud architecture, and AI integration. I have a strong background in building scalable systems, leading technical teams, and delivering high-impact solutions across diverse sectors.
+
+💬 I’m passionate about discussing advanced technologies, from space exploration to cutting-edge software development practices.
+
+⚡ Fun fact: I can squat 220 pounds 😄
 
 
 ## 🌐 Socials:
